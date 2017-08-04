@@ -29,7 +29,7 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="ABHISHEK PAL" />
+            android:value="Yaha kya Dalu? Muje thoda dekhna padega ye ya hai. abhi online hi edit kia hu isko." />
 
         <activity android:name=".FirstScreen"
             android:label="Start screen"
